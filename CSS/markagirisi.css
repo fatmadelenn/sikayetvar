@@ -1,0 +1,33 @@
+.enalt{
+  
+      background-color: #242627;
+      width: 100%;
+      font-size: 18px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 999;
+      padding: 0;
+      padding-bottom: 15px;
+
+}
+.satir{
+  width: 100%;
+  margin-left: 100px;
+      padding-top: 20px;
+}
+span{
+  padding-right: 40px;
+  color: #929393;
+}
+.neyapmali{
+  margin-left: 250px;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+.mgiris{
+    color:#fff;
+}

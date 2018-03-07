@@ -1,0 +1,355 @@
+
+header{
+  width: 100%;
+  height: 59px;
+  position:fixed;
+  background: #f8f8f8;
+    padding: 20px 0px 10px 0px;
+      font-family: Nunito-ExtraBold;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+      display: block;
+      border-bottom: solid 2px #EEE;
+  }
+header.butonlar{
+  float:right;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-size: 18px;
+  text-align: left;
+  }
+
+.golge{
+  max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ul.butonlar{
+  margin: 0px;
+      }
+ul{
+  list-style-type: none;
+  list-style-position: outside;
+  }
+.kose{
+  margin: auto;
+    width: 50%;
+    text-align: right;
+    display: block;
+    float: right;
+  }
+.girisbutonu{
+
+  border: 0;
+    border-right: solid 1 rgba(255, 255, 255, 0.4);
+    margin-left: 220px;
+    margin-top: 3px;
+    border-radius: 100%;
+    line-height: 1.4px;
+    position: absolute;
+
+}
+
+.sikayetyaz{
+  background-color: #f79843;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    margin-top: 3px;
+    color: #FFF;
+    margin-left: 15px;
+    font-size: 19px;
+      font-family: Nunito-ExtraBold;
+    border-style: none;
+  }
+
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  color:#FFF;
+}
+a:hover{
+  color:#fff;
+}
+.aramayap{
+  float:left;
+  width: 615px;
+  height: 45px;
+  margin-top: -70px;
+  margin-left: 90px;
+  margin-right: 250px;
+  border-radius: 50px;
+  border-style: none;
+  padding-left:15px;
+  font-size: 15px;
+
+}
+.aramabutonu{
+  float: right;
+  position: relative;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border-style: none;
+  right:  27.8%;
+  margin-top: -75px;
+    top: 8px;
+
+}
+.hr1{
+  width: 350px;
+  margin-left: 200px;
+  margin-top: -30px;
+  }
+.hr2{
+  width: 400px;
+  margin-top: -10px;
+  margin-bottom: 50px;
+  margin-left: 750px;
+  }
+h1{
+    color: #2d2f31;
+    font-size: 26px;
+    font-family: Nunito-ExtraBold;
+    text-align: center;
+    margin-top:0px;
+    margin-left:450px;
+  }
+.baslik{
+  margin-top:8px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  width: 850px;
+  height: 40px;
+  border: solid 0px #DDD;
+  font-size: 18px;
+  color:#646464;
+  }
+
+.sikayet{
+  margin-top:8px;
+  margin-bottom: 20px;
+  width: 850px;
+  height: 40px;
+  border: solid 1px #DDD;
+  font-size: 18px;
+  padding-left: 10px;
+  color:#646464;
+
+  }
+
+.resim{
+  width: 200px;
+  height: 50px;
+  border-color: #00c35c;
+  background-color: #fff;
+  margin-top:30px;
+
+  }
+
+.butonlar .acilirmenu:before{
+  content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    border: inset 0.5rem;
+    border-color: transparent transparent #3c4043;
+    border-bottom-style: solid;
+    border-top-width: 0;
+    bottom: 100%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+.butonlar .acilirmenu li{
+
+  padding: 5px 15px;
+    display: block;
+  }
+.butonlar li{
+  vertical-align: middle;
+  }
+.butonlar li{
+  margin: 0px;
+    padding: 0px;
+  }
+ul{
+  line-height: 1.6px;
+  }
+header .butonlar .acilirmenu{
+  opacity: 0;
+  position: absolute;
+    top: 55px;
+    left: -52px;
+    background-color: #3c4043;
+    margin-left: -10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    text-align: left;
+    width: 165px;
+    z-index: 2;
+    padding-left: 8px;
+    list-style: none;
+  }
+  header .butonlar .acilirmenu:hover{
+    visibility: visible;
+    opacity: 1;
+  }
+ul.butonlar li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  }
+ul{
+  list-style-type: disc;
+    margin-left: 1.25rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    list-style-position: outside;
+  }
+
+.butonlar .acilirmenu a{
+  color: #fff;
+    font-size: 17px;
+    font-family: Nunito-Regular;
+    display: block;
+}
+a{
+  color: inherit;
+    text-decoration: none;
+    line-height: inherit;
+    cursor: pointer;
+  }
+
+.butonlar .acilirmenu li.cikis{
+  background-color: #2d2f31;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.butonlar .acilirmenu li{
+  margin-top: 0px;
+  padding: 5px 15px;
+    display: block;
+    margin-left: -8px;
+    padding-left: 12px;
+    }
+.butonlar .acilirmenu li:hover{
+  background-color: #2d2f31;
+  }
+  .profil{
+    margin-top: 30px;
+  }
+.profilad{
+  background-color: #2d2f31;
+    color: #fff;
+    padding: 35px 0px 0;
+    width: 284px;
+    height: 220px;
+    margin-left: 200px;
+
+  }
+.foto{
+  margin-left: 80px;
+  margin-bottom: 20px;
+
+  }
+.kisiadi{
+
+  padding-left: 85px;
+  }
+.profiltamamla{
+
+  background-color: #3c4043;
+
+    width: 284px;
+    height: 220px;
+    margin-left: 200px;
+  }
+.sehir{
+  margin-left: 100px;
+
+  color:#fff;
+  display: inline-block;
+  text-align: center;
+  padding: 6px;
+  font-size: 16px;
+  }
+.tamamla{
+    margin: 25px 0;
+  color: #fff ;
+  border: 2px solid #fff;
+    border-radius: 28px;
+    font-family: Nunito-SemiBold;
+    font-size: 20px;
+      background: transparent;
+      overflow: visible;
+      width: 200px;
+      height: 50px;
+      margin-left: 50px;
+      margin-top: 75px;
+  }
+.tamamla:hover{
+  background-color: #2bc055 ;
+    border-color: #2bc055;
+    color: #fff ;
+    width: 200px;
+    font-size: 20px;
+      height: 50px;
+      margin-top: 75px;
+  }
+.hesabisil{
+  background: transparent;
+      color: #999;
+    border-color:2px #CCC;
+    border-radius: 4px;
+    padding: 10px 28px;
+    margin-bottom: 10px;
+    width: 284px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+.hesabisil:hover{
+  background: #CCC;
+  }
+.bilgiler{
+  margin-top: -583px;
+  margin-left: 500px;
+  padding: 30px;
+    background: #FFF;
+    width: 600px;
+    height: 500px;
+}
+.h3{
+  color: #a3a3a3;
+  font-size: 1.5625rem;
+}
+.hr3{
+margin-bottom: 60px;
+  width: 600px;
+  margin-top: 60px;
+}
+.guncelle{
+  float: right;
+  background: #fff;
+border-radius: 28px;
+margin-top: 10px;
+  top: 20px;
+  border-color: #f79843;
+  color: #e77f22;
+  width: 120px;
+  height: 50px;
+  font-size: 18px;
+}
+.guncelle:hover{
+  background-color: #e77f22 ;
+  border-color: #e77f22;
+  color: #fff ;
+}

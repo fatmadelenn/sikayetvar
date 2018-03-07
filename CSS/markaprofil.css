@@ -1,0 +1,164 @@
+
+header{
+  width: 100%;
+  height: 59px;
+  position:fixed;
+  background: #f8f8f8;
+    padding: 20px 0px 10px 0px;
+      font-family: Nunito-ExtraBold;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+      display: block;
+      border-bottom: solid 2px #EEE;
+      float: left;
+
+    }
+    body{
+      background-color: #f8f8f8;
+      font-family: Nunito-ExtraBold;
+      font-size: 18px;
+      padding-top: 90px;
+        font-family: Nunito-ExtraBold;
+      font-weight: normal;
+      line-height: 1.5;
+      color: #343434;
+
+      }
+
+
+  
+
+    .baslik{
+      margin-bottom: 30px;
+      height: 60px;
+      border: solid 0px #DDD;
+      font-size: 18px;
+      color:#646464;
+      }
+      .hr1{
+      width: 350px;
+      margin-left: 200px;
+      margin-top: -30px;
+        }
+      .hr2{
+      width: 400px;
+      margin-top: -10px;
+      margin-bottom: 50px;
+      margin-left: 750px;
+        }
+      h1{
+      color: #2d2f31;
+      font-size: 26px;
+        font-family: Nunito-ExtraBold;
+      text-align: center;
+      margin-top:0px;
+      margin-left:450px;
+        }
+
+
+    .golge{
+      max-width: 60rem;
+      margin-left: auto;
+      margin-right: auto;
+      }
+
+
+    .foto{
+      margin-top: -5px;
+      float: left;
+    }
+      .fotodivi{
+    width: 80px;
+    margin-top: 15px;
+    height: 80px;
+    float: left;
+    margin-left: 40px;
+        margin-right: 25px;
+  }
+  .kullanici{
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    margin-top: -70px;
+    color:#2bc055;
+  }
+    .girisarkaplan{
+      background: rgba(239, 239, 239, 0.8);
+      width: 100%;
+      height: 100%;
+      background-size: 100%;
+      top: 0;
+      left: 0;
+      padding-top: 10px;
+    }
+    .div1{
+
+      background-color: #FFF;
+      margin-top: 10px;
+      border-radius: 40px;
+      margin-left: 90px;
+      width: 900px;
+      padding-top: 5px;
+      box-shadow: 1px 1px 2px;
+      margin-bottom: 10px;
+    }
+    .markayazi{
+padding-bottom: 10px;
+  float: right;
+  margin-right: 220px;
+  font-size: 25px;
+      color: #646464;
+      margin-top: -70px;
+}
+    .buton{
+      cursor: pointer;
+  margin-right: 160px;
+  padding-left: 10px;
+  float: right;
+  padding-right: 80px;
+  margin-top: -100px;
+  color: #fff;
+  border: 2px solid  #f79843;
+  border-radius: 28px;
+    font-family: Nunito-ExtraBold;
+  font-size: 20px;
+  background: #f79843;
+
+      width: 50px;
+      height: 50px;
+  }
+.buton:hover{
+  margin-right:  160px;
+  padding-left: 10px;
+  float: right;
+  padding-right: 80px;
+margin-top: -100px;
+  background-color: #2bc055 ;
+    border-color: #2bc055;
+    color: #fff ;
+    width: 50px;
+    font-size: 20px;
+      height: 50px;
+  }
+  .cevaplanan{
+    padding-bottom: 10px;
+      float: left;
+      font-size: 20px;
+          color: #646464;
+          margin-top: -70px;
+          margin-left: 780px;
+
+  }
+  .cikis{
+
+    padding-bottom: 20px;
+      float: right;
+      font-size: 20px;
+          color: #646464;
+          margin-top: -45px;
+          margin-right: -370px;
+  }
+  a:hover{
+    color:#00c35c;
+  }

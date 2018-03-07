@@ -1,0 +1,187 @@
+
+header{
+  width: 100%;
+  height: 59px;
+  position:fixed;
+  background: #f8f8f8;
+    padding: 20px 0px 10px 0px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+      display: block;
+      border-bottom: solid 2px #EEE;
+  }
+header.butonlar{
+  float:right;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-size: 18px;
+  text-align: left;
+  }
+
+.golge{
+  max-width: 60rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ul.butonlar{
+  margin: 0px;
+      }
+ul{
+  list-style-type: none;
+  list-style-position: outside;
+  }
+.kose{
+  margin: auto;
+    width: 50%;
+    text-align: right;
+    display: block;
+    float: right;
+  }
+.girisbutonu{
+
+  margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 100%;
+    line-height: 1.4px;
+    position: absolute;
+    font-size: 15px;
+
+}
+
+.sikayetyaz{
+  background-color: #f79843;
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    margin-top: 3px;
+    color: #FFF;
+    margin-left: 15px;
+    font-size: 19px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    border-style: none;
+  }
+
+
+
+.sikayetyaz a:link{
+  text-decoration: none;
+}
+.sikayetyaz a:visited{
+  color:#FFF;
+
+}
+.sikayetyaz a:hover{
+  color:#fff;
+}
+.aramayap{
+  float:left;
+  width: 615px;
+  height: 45px;
+  margin-top: -55px;
+  margin-left: 90px;
+  margin-right: 250px;
+  border-radius: 50px;
+  border-style: none;
+  padding-left:15px;
+  font-size: 15px;
+
+}
+.aramabutonu{
+  float: right;
+  position: relative;
+  background-color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border-style: none;
+  right:  27.8%;
+  margin-top: -60px;
+    top: 8px;
+
+}
+h2{
+    color: #b7b7b7;
+  font-size: 18px;
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: left;
+    margin-top:320px;
+    margin-left:190px;
+  }
+
+.butonlar li{
+  vertical-align: middle;
+  }
+.butonlar li{
+  margin: 0px;
+    padding: 0px;
+  }
+ul{
+  line-height: 1.6px;
+  }
+
+
+ul.butonlar li {
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  }
+
+   .div1{
+     box-shadow: 1px 1px 10px #b7b7b7;
+     float:left;
+     background-color: #FFF;
+
+     margin-left: 90px;
+     width: 500px;
+     height: 300px;
+     padding-left:25px;
+  	 padding-top: 20px;
+  	 padding-right: 15px;
+
+     width: 500px;
+
+     margin-bottom: 60px;
+   }
+   .altkisim{
+      margin-left: -25px;
+    margin-top: 100px;
+    padding: 15px 30px 15px 30px;
+    background-color: #f9f9f9;
+    display: inline-block;
+    width: 96%;
+    margin-bottom: -8px;
+    margin-top: 96px;
+
+  }
+ul{
+  list-style-type: disc;
+    margin-left: 1.25rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    list-style-position: outside;
+  }
+.girisbutonu{
+  color: #ccc;
+}
+.linklerarasi{
+  width: 50px;
+  margin-top: -1px;
+  margin-bottom: -4px;
+  color: #343434;
+  margin-left: 7px;
+}
+.link{
+  float: left;
+  margin-top: 10px;
+  margin-left: 210px;
+  font-size: 15px;
+}
+.link a{
+  color: #666;
+  text-decoration: none;
+}
+.link a:hover{
+  color: #42d16a;
+}

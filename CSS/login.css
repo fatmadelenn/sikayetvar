@@ -1,0 +1,133 @@
+.girisarkaplan{
+background: rgba(239, 239, 239, 0.8);
+width: 100%;
+height: 100%;
+background-size: 100%;
+position: fixed;
+top: 0;
+left: 0;
+padding-top: 10px;
+
+}
+.logo{
+margin-top:0 ;
+margin-left: 550px;
+margin-top: 40px;
+margin-bottom: -10px;
+}
+
+
+.resim{
+width: 200px;
+height: 59px;
+}
+.formekrani{
+position: fixed;
+margin-top: 30px;
+background: #FFF;
+padding: 50px;
+border-radius: 10px;
+
+}
+.form{
+background-color: #FFF;
+margin-left: 400px;
+margin-right: 350px;
+width: 450px;
+height: 440px;
+border-radius: 10px;
+padding-left: 50px;
+padding-top: 30px;
+}
+h2{
+
+padding-right: 29px;
+font-size: 29px;
+    font-family: Arial;
+  text-align: center;
+position: relative;
+z-index: 3;
+margin-top:10px;
+margin-bottom: 25px;
+color: #646464;
+}
+label{
+color: #555;
+  font-family: Nunito-ExtraBold;
+font-size: 20px;
+}
+.mail{
+margin-top: 3px;
+margin-bottom: 20px;
+width: 400px;
+height: 40px;
+border-radius: 10px;
+border: solid 1px #DDD;
+font-size: 18px;
+padding-left: 10px;
+color:#646464;
+}
+.kullanici_sifre{
+margin-top: 3px;
+margin-bottom: 50px;
+width: 400px;
+height: 40px;
+border-radius: 10px;
+border: solid 1px #DDD;
+font-size: 18px;
+padding-left: 10px;
+color:#646464;
+}
+.gbuton{
+width: 400px;
+height: 60px;
+font-size: 20px;
+  font-family: Nunito-ExtraBold;
+border-color: #f79843;
+background-color: #f79843;
+color: #fff ;
+margin-bottom: 0;
+line-height: 1.42857143;
+text-align: center;
+border: 2px solid transparent;
+border-radius: 28px;
+  font-family: Nunito-ExtraBold;
+margin-bottom: 25px;
+}
+.unuttunmu{
+float: left;
+color: #00c35c;
+font-size: 20px;
+}
+.uyeol{
+float:right;
+padding-right: 60px;
+color: #00c35c;
+font-size: 20px;
+}
+.hr1{
+width: 120px;
+margin-left: 5px;
+margin-top: -40px;
+}
+.hr2{
+width: 120px;
+margin-top: -10px;
+margin-bottom: 50px;
+margin-right: 50px;
+}
+.kapat{
+margin-left:900px;
+color:#f79843;
+margin-bottom: -25px;
+}
+a:link{
+color:#00c35c;
+text-decoration:none;
+}
+a:visited{
+color:#00c35c;
+}
+a:hover{
+color:#00c35c;
+}

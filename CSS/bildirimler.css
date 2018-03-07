@@ -1,0 +1,16 @@
+.bildirim{
+  background-color: #fff;
+  width: 900px;
+  min-height:80px;
+  height: auto;
+  margin-left: 200px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  margin-top: 10px;
+
+}
+.bldrm{
+    color:#99CCFF;
+  font-weight: bold;
+}
